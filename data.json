@@ -1,0 +1,48 @@
+{"details":{
+  "image":"h.jpg",
+  "name":"harshi",
+  "phoneno":"+91-7348477344",
+  "email":"medaharshinipriya1999@gmail.com",
+  "address":"vijayawada,52001"
+},
+"career":{
+  "info":"To pursue a challenging career"
+},
+"education":[
+  {
+  "qualification":"B.tech",
+  "institue":"MIC college",
+  "year":"2016-2020",
+  "percentage":"89%"
+  },
+{
+  "qualification":"intermediate",
+  "institue":"Narayana",
+  "year":"2014-2016",
+  "percentage":"86%"
+}
+],
+"skills":[{
+  "title":"programming language",
+  "info":["c,c++,java,R,python"]
+  },
+  {
+    "title":"Databases",
+    "info":["oracle,sql,mysql,tinydb"]
+  },
+  {
+    "title":"operating systems",
+    "info":["windows,linux,ubuntu,mac"]
+  }
+],
+"acheivements":[{
+  "info":"i got prize in coding"
+},
+{
+    "info":"won prize in badminton"
+  },
+  {
+    "info":"participated various technical Events in college"
+  }
+]
+}
